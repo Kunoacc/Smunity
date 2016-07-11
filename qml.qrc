@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Portal.qml</file>
+        <file>Website.qml</file>
+        <file>Airtime.qml</file>
+        <file>qtlabscontrols.conf</file>
+        <file>images/action.png</file>
+        <file>images/action@2x.png</file>
+        <file>images/action@3x.png</file>
+        <file>images/action@4x.png</file>
+        <file>images/airtime.png</file>
+        <file>images/airtime@2x.png</file>
+        <file>images/airtime@3x.png</file>
+        <file>images/airtime@4x.png</file>
+        <file>images/closeDrawer.png</file>
+        <file>images/closeDrawer@2x.png</file>
+        <file>images/closeDrawer@3x.png</file>
+        <file>images/closeDrawer@4x.png</file>
+        <file>images/drawer.png</file>
+        <file>images/drawer@2x.png</file>
+        <file>images/drawer@3x.png</file>
+        <file>images/drawer@4x.png</file>
+        <file>images/portal.png</file>
+        <file>images/portal@2x.png</file>
+        <file>images/portal@3x.png</file>
+        <file>images/portal@4x.png</file>
+        <file>images/salem.png</file>
+        <file>images/slogo.png</file>
+        <file>images/smunity.png</file>
+        <file>images/website.png</file>
+        <file>images/website@2x.png</file>
+        <file>images/website@3x.png</file>
+        <file>images/website@4x.png</file>
+    </qresource>
+</RCC>
